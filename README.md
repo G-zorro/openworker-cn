@@ -1,4 +1,4 @@
-# OpenWorker 中文汉化（Windows 版）
+# OpenWorker 中文汉化（Windows 版）作者：CocaCode (GitHub ID: G-zorro)
 
 为 [OpenWorker](https://github.com/andrewyng/openworker) 桌面端提供完整中文界面汉化，适用于 Windows 10 / 11（x64）。
 
